@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+statsmodels
+joblib
+plotly
+streamlit-option-menu
+streamlit-extras
+requests
+openpyxl
+xlsxwriter
+geopy
+weather
